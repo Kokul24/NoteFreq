@@ -40,24 +40,7 @@ NoteFreq is a modern, full-stack note-taking application built with the MERN sta
 - MongoDB Atlas account or local MongoDB installation
 - Git
 
-### Clone the Repository
-```bash
-git clone https://github.com/Kokul24/NoteFreq.git
-cd NoteFreq
-```
 
-### Backend Setup
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file in the backend directory:
-```env
-MONGO_URI=your_mongodb_connection_string
-PORT=5001
-JWT_SECRET=your_secret_key_here
-```
 
 Start the backend server:
 ```bash
