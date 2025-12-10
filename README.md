@@ -4,9 +4,11 @@
 
 NoteFreq is a modern, full-stack note-taking application built with the MERN stack. Create, manage, and organize your thoughts with a beautiful and intuitive interface.
 
-## 🎥 Live Demo
+## 🚀 Live Demo
 
-**[Watch Live Demo Video](https://drive.google.com/file/d/19_a2Hh8-bZtZZQ_CUkiPHpK5uo1F7zxt/view?usp=sharing)**
+**[Try NoteFreq Live](https://note-freq.vercel.app)** 🌐
+
+**[Watch Demo Video](https://drive.google.com/file/d/19_a2Hh8-bZtZZQ_CUkiPHpK5uo1F7zxt/view?usp=sharing)** 🎥
 
 ## ✨ Features
 
